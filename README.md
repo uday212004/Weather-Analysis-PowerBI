@@ -1,6 +1,15 @@
 # Weather-Analysis-PowerBI
 Interactive Power BI dashboard analyzing rainfall, temperature, humidity, and wind speed.
 📊 Weather Analysis Dashboard  Power BI Project
+Due to Excel size limitations, the dashboard file is hosted externally- Dashboard File (Download): https://drive.google.com/file/d/1O6IYwWWMZfzWqbZvV5ZHWj7PkISHbv7C/view?usp=drive_link
+
+My LinkedIN -> https://www.linkedin.com/in/deshmukh-ud/
+Project LinkedIn Link --> https://www.linkedin.com/feed/update/urn:li:activity:7412860171170877440/
+
+Video -> https://drive.google.com/file/d/1kfzfw0BFThUWysBQvnsfs7EE-8iUOL5P/view?usp=drive_link
+
+
+
 - Project Overview
 
 This project presents a comprehensive Weather Analysis Dashboard developed using Power BI, focusing on four key weather parameters
